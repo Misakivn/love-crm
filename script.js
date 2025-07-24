@@ -6,14 +6,13 @@ document.getElementById("personForm").addEventListener("submit", function(e) {
   const lastDate = document.getElementById("lastDate").value;
   const notes = document.getElementById("notes").value;
 
+  const slug = name.toLowerCase().replace(/\s+/g, '-');
   const personItem = document.createElement("li");
+
   personItem.innerHTML = `
-    <strong>${name}</strong> (${nickname || "Không có biệt danh"})<br>
-    Lần gặp: ${lastDate || "Chưa rõ"}<br>
-    📓 Ghi chú: ${notes || "..."}`
+    <a href="person/${slug}.html">${name}</a> (${nickname || "Không có biệt danh"})`;
 
   document.getElementById("personList").appendChild(personItem);
 
-  // Clear form
   this.reset();
 });
