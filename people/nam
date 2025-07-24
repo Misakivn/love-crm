@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Nam 💘</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Nam – Hồ sơ tình cảm</h1>
+    <p><strong>Biệt danh:</strong> Mặt Trăng</p>
+    <p><strong>Lần gặp gần nhất:</strong> 2025-07-15</p>
+    <p><strong>Ghi chú:</strong> Thích nhạc indie, chơi guitar 🎸</p>
+    <a href="../index.html">← Quay lại danh sách</a>
+  </div>
+</body>
+</html>
