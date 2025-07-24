@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Khoa 💘</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Khoa – Hồ sơ tình cảm</h1>
+    <p><strong>Biệt danh:</strong> Coder Boy</p>
+    <p><strong>Lần gặp gần nhất:</strong> 2025-07-05</p>
+    <p><strong>Ghi chú:</strong> Lập trình giỏi, mê frontend 💻</p>
+    <a href="../index.html">← Quay lại danh sách</a>
+  </div>
+</body>
+</html>
