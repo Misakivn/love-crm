@@ -1,1 +1,52 @@
+body {
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  background: #fff0f5;
+  padding: 20px;
+  margin: 0;
+}
 
+.container {
+  max-width: 600px;
+  margin: auto;
+  background: #ffe4e1;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 2px 2px 10px #d36c6c;
+}
+
+h1, h2 {
+  text-align: center;
+  color: #d63384;
+}
+
+form input, form textarea {
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+}
+
+form button {
+  background-color: #ff69b4;
+  color: white;
+  border: none;
+  padding: 10px;
+  width: 100%;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background: #fff;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0px 0px 5px #ccc;
+}
