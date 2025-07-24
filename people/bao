@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Linh 💘</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Linh – Hồ sơ tình cảm</h1>
+    <p><strong>Biệt danh:</strong> Bánh Tráng</p>
+    <p><strong>Lần gặp gần nhất:</strong> 2025-07-20</p>
+    <p><strong>Ghi chú:</strong> Thích trà sữa, hay online lúc 9h tối</p>
+    <a href="../index.html">← Quay lại danh sách</a>
+  </div>
+</body>
+</html>
