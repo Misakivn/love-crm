@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My 💘</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>My – Hồ sơ tình cảm</h1>
+    <p><strong>Biệt danh:</strong> Cún Con</p>
+    <p><strong>Lần gặp gần nhất:</strong> 2025-07-10</p>
+    <p><strong>Ghi chú:</strong> Hay gửi meme, thích ăn kem 🍦</p>
+    <a href="../index.html">← Quay lại danh sách</a>
+  </div>
+</body>
+</html>
